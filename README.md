@@ -201,14 +201,14 @@ Before running this application, make sure you have the following installed:
 ## ✅ Simplified Admin Setup Section:
 ### Clear Step-by-Step Process:
 
-Register user through web app first
-Run the command: node admin-setup.js <mail-address>
-Log out and back in to activate privileges
+-Register user through web app first
+-Run the command: node admin-setup.js <mail-address>
+-Log out and back in to activate privileges
 
 ### Command Usage Examples:
 
 General syntax shown
-Specific example with pm@gmail.com
+Specific example with admin@gmail.com
 
 ### Essential Notes:
 
