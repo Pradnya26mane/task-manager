@@ -197,13 +197,17 @@ Before running this application, make sure you have the following installed:
    - Add a web app and copy the configuration
 
 
+## ✅ Admin Setup Guide
 
-## ✅ Simplified Admin Setup Section:
-### Clear Step-by-Step Process:
+Easily promote a registered user to **Admin** using the provided setup script.
 
--Register user through web app first
--Run the command: node admin-setup.js <mail-address>
--Log out and back in to activate privileges
+---
+
+### 🔹 Step-by-Step Process
+1. **Register a user** through the web app (must exist before setup).  
+2. Run the command in your backend project root:  
+   ```bash
+   node admin-setup.js <user-email>
 
 ### Command Usage Examples:
 
